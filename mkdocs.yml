@@ -1,16 +1,16 @@
 # Project information
-site_name: WIDORA OPEN SOURCE
+site_name: 歪朵拉开源硬件
 site_description: Open Sourse Hardware
 site_author: Mangogeek
-site_url: http://widora.io
+site_url: http://widora.io/cn
 
 # Repository
-repo_name: 'widora.io'
-repo_url: https://github.com/widora/widora.io/
+repo_name: 'widora.io-cn'
+repo_url: https://github.com/widora/widora.io-cn/
 edit_uri: blob/master/docs/
 
 # Copyright
-copyright: 'Copyright &copy; 2017-2018 widora'
+copyright: 'Copyright &copy; 2017-2018 歪朵拉'
 
 # Configuration
 theme:
@@ -79,7 +79,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - HOME: index.md
+  - 主页: index.md
   - TinTin-A:
     - Index: authors-notes.md
     - Getting started: getting-started.md
