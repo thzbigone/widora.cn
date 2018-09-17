@@ -1,6 +1,6 @@
 ## 歪朵拉开源硬件
 
-|  | NEO | BIT3/4/5 | AIR | BITS3 | TinTin-A |
+|  | NEO | BIT3/BIT4/BIT5 | AIR | BITS3 | TinTin-A |
 | --- | --- | --- | --- | --- | --- |
 | CHIP | MT76x8 | MT76x8 | ESP32 | SOCHIP S3 | ESP32 |
 | CLK | 580MHz | 580MHz | 240MHz*2 | 1.2GHz Cortex-A7 | 240MHz*2 |
