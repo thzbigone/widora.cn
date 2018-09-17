@@ -13,8 +13,8 @@
 ## 数据迁移
 为了提供更好的体验，我们会逐渐完成迁移工作
 
-* [原论坛sns.widora.cn](http://sns.widora.cn) 逐渐迁移至此 cn.widora.io
-* [原维基wiki.widora.cn](http://wiki.widora.cn) 逐渐迁移至 cnforum.widora.io
+* [原论坛sns.widora.cn](http://sns.widora.cn) 逐渐迁移至 cnforum.widora.io
+* [原维基wiki.widora.cn](http://wiki.widora.cn) 逐渐迁移至 cn.widora.io
 
 ## 相关报道
 #### CNXSoft
