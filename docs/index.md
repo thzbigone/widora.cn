@@ -8,7 +8,7 @@
 | ROM | 4MiB | 4GB |
 
 ## 原始的论坛和维基
-#### 为了提供更好的体验，我们会逐渐完成迁移工作
+为了提供更好的体验，我们会逐渐完成迁移工作
 * [原论坛sns.widora.cn](http://sns.widora.cn)
 * [原维基wiki.widora.cn](http://wiki.widora.cn)
 
