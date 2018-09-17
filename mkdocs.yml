@@ -1,0 +1,95 @@
+# Project information
+site_name: WIDORA OPEN SOURCE
+site_description: Open Sourse Hardware
+site_author: Mangogeek
+site_url: http://widora.io
+
+# Repository
+repo_name: 'widora.io'
+repo_url: https://github.com/widora/widora.io/
+edit_uri: blob/master/docs/
+
+# Copyright
+copyright: 'Copyright &copy; 2017-2018 widora'
+
+# Configuration
+theme:
+  name: null
+  custom_dir: material
+
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  feature:
+    tabs: true
+  palette:
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/images/favicon.png
+  logo:
+    icon: "\uE30d"
+
+# Customization
+extra:
+  social:
+    - type: github-alt
+      link: https://github.com/widora/
+    - type: twitter
+      link: https://twitter.com/widora_io/
+    - type: google
+      link: https://plus.google.com/communities/118316376110466220742
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite:
+      guess_lang: true
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Page tree
+nav:
+  - HOME: index.md
+  - TinTin-A:
+    - Index: authors-notes.md
+    - Getting started: getting-started.md
+    - License: license.md
+  - TinTin-B:
+    - Index: specimen.md
+    - compliance: compliance.md
+
+
+# Google Analytics
+google_analytics:
+  - "UA-109508401-7"
+  - auto
