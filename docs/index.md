@@ -1,11 +1,16 @@
 ## 歪朵拉开源硬件
 
-|  | TinTin-A | TinTin-B |
-| ---- | --- | --- |
-| CHIP | ESP32 | SOCHIP S3 |
-| CLK | 240MHz | 1.2GHz |
-| RAM | 520KB | 128MiB |
-| ROM | 4MiB | 4GB |
+|  | NEO | BIT3/4/5 | AIR | BITS3 | TinTin-A |
+| --- | --- | --- | --- | --- | --- |
+| CHIP | MT76x8 | MT76x8 | ESP32 | SOCHIP S3 | ESP32 |
+| CLK | 580MHz | 580MHz | 240MHz*2 | 1.2GHz Cortex-A7 | 240MHz*2 |
+| RAM | 128MB | 128MB/64MB | 520KB | 128MB | 520KB |
+| ROM | 32MB | 16MB/32MB | 16MB | 16M Nor/4GB EMMC | 16MB |
+| Wi-Fi | 11bgn | 11bgn | 11bgn | NC | 11bgn |
+| BT | NC | NC | BT4 | NC | BT4 |
+| USB | 1*HOST | 1*HOST | NC | 1*OTG | NC |
+
+
 
 ## 原论坛和维基
 为了提供更好的体验，我们会逐渐完成迁移工作
