@@ -31,7 +31,7 @@ theme:
     tabs: true
   palette:
     primary: Brown
-    accent: Brown
+    accent: Indigo
   font:
     text: Roboto
     code: Roboto Mono
