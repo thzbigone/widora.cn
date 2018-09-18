@@ -30,7 +30,7 @@ theme:
   feature:
     tabs: true
   palette:
-    primary: indigo
+    primary: White
     accent: indigo
   font:
     text: Roboto
@@ -40,6 +40,9 @@ theme:
     icon: "\uE30d"
 
 # Customization
+extra:
+  search:
+    language: 'en, zh'
 extra:
   social:
     - type: github-alt
