@@ -31,7 +31,7 @@ theme:
     tabs: true
   palette:
     primary: Deep Purple
-    accent: indigo
+    accent: Deep Purple
   font:
     text: Roboto
     code: Roboto Mono
