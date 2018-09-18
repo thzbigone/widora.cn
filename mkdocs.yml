@@ -30,8 +30,8 @@ theme:
   feature:
     tabs: true
   palette:
-    primary: Teal
-    accent: Teal
+    primary: deep purple
+    accent: deep purple
   font:
     text: Roboto
     code: Roboto Mono
