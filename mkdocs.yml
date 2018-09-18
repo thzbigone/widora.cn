@@ -30,8 +30,8 @@ theme:
   feature:
     tabs: true
   palette:
-    primary: Teal
-    accent: Teal
+    primary: Brown
+    accent: Brown
   font:
     text: Roboto
     code: Roboto Mono
