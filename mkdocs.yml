@@ -30,7 +30,7 @@ theme:
   feature:
     tabs: true
   palette:
-    primary: White
+    primary: Deep Purple
     accent: indigo
   font:
     text: Roboto
