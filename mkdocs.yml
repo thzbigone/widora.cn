@@ -2,11 +2,11 @@
 site_name: 歪朵拉开源硬件
 site_description: Open Sourse Hardware
 site_author: Mangogeek
-site_url: http://cn.widora.io/
+site_url: http://www.widora.io/cn/
 
 # Repository
-repo_name: 'cn.widora.io'
-repo_url: https://github.com/widora/cn.widora.io/
+repo_name: 'widora.io-cn'
+repo_url: https://github.com/widora/widora.io-cn/
 edit_uri: blob/master/docs/
 
 # Copyright
@@ -91,5 +91,5 @@ nav:
 
 # Google Analytics
 google_analytics:
-  - "UA-109508401-9"
+  - "UA-109508401-7"
   - auto
