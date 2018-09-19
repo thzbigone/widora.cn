@@ -4,6 +4,7 @@ site_description: Open Sourse Hardware
 site_author: Mangogeek
 site_url: http://widora.cn/
 
+
 # Repository
 repo_name: 'widora.cn'
 repo_url: https://github.com/widora/widora.cn/
@@ -94,5 +95,5 @@ nav:
 
 # Google Analytics
 google_analytics:
-  - "UA-109508401-7"
+  - "UA-109508401-9"
   - auto
