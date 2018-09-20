@@ -48,10 +48,8 @@ extra:
   social:
     - type: github-alt
       link: https://github.com/widora/
-    - type: twitter
-      link: https://twitter.com/widora_io/
-    - type: google
-      link: https://plus.google.com/communities/118316376110466220742
+    - type: language
+      link: https://widora.io/
 
 # Extensions
 markdown_extensions:
