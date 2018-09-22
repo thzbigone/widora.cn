@@ -1,7 +1,7 @@
 ## 开源硬件一览
 
 |  | NEO | BIT3/BIT4/BIT5 | AIR/TinTin-A | BITS3/TinTin-B |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | CHIP | MT76x8 | MT76x8 | ESP32 | SOCHIP S3 |
 | CLK | 580MHz | 580MHz | 240MHz*2 | 1.2GHz Cortex-A7 |
 | RAM | 128MB | 128MB/64MB | 520KB | 128MB |
