@@ -54,4 +54,4 @@
   * 聊天TG群：https://t.me/widora
   
 ## 备注
-(widora.cn)[widora.cn] 仅用于歪朵拉对外提供针对国内的内容和服务（社区、文档、ID中心、云等等）。欢迎访问我们的(国际站点)[widora.io] 
+[widora.cn](widora.cn) 仅用于歪朵拉对外提供针对国内的内容和服务（社区、文档、ID中心、云等等）。欢迎访问我们的[国际站点](widora.io) 
